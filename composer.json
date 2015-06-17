@@ -1,0 +1,20 @@
+{
+    "name": "gearbox/activesupport",
+    "type": "library",
+    "description": "Gearbox PHP / ActiveSupport",
+    "keywords": ["framework"],
+    "homepage": "http://gabrielrosas.com",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Gabriel Rosas",
+            "email": "me@gabrielrosas.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+          "lib/activesupport.php"
+        ]
+    }
+}
