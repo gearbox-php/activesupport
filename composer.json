@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "classmap": [
-          "lib/activesupport.php"
+          "lib/active_support.php"
         ]
     }
 }
