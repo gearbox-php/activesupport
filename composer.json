@@ -11,7 +11,9 @@
             "email": "me@gabrielrosas.com"
         }
     ],
-    "require": {},
+    "require": {
+      "gearbox/engine": "dev-master"
+    },
     "autoload": {
         "classmap": [
           "lib/active_support.php"
